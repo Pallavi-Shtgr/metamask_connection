@@ -4,7 +4,6 @@ import MetaMask from './MetaMask';
 function App() {
   return (
     <MetaMask></MetaMask>
-  
    
   );
 }
